@@ -2,7 +2,7 @@
 
 Por Martín Gaitán
 
-- Ir al [paper](https://github.com/mgaitan/mesas_ba/tree/master/mesas_ba/mesas_sospechosas.ipynb)
+- Ir al [paper](https://github.com/mgaitan/mesas_ba/blob/master/mesas_sospechosas.ipynb)
 
 
 ## Abstract
